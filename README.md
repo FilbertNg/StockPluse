@@ -54,7 +54,19 @@ StockPulse is an intelligent stock sentiment analysis tool that extracts and ana
 ```
 
 ---
+## 🔗 Resources
 
+- [Financial News with Ticker-Level Sentiment (Kaggle)](https://www.kaggle.com/datasets/rdolphin/financial-news-with-ticker-level-sentiment)  
+- [SEC Company Ticker List](https://www.sec.gov/file/company-tickers)
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Streamlit Demo** (coming soon)  
+> Placeholder — demo URL will be added here once deployed.
+
+---
 ## 📚 Acknowledgements
 
 - Pretrained BERT models from Hugging Face 🤗  
