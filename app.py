@@ -17,7 +17,7 @@ st.title("StockPulse Sentiment Analysis")
 st.markdown("Analyze text or financial news URLs for **positive**, **neutral**, or **negative** sentiment.")
 
 # Sidebar mode
-mode = st.sidebar.radio("Choose mode", ["Text Input", "URL Analysis"])
+mode = st.sidebar.radio("Choose mode", ["URL Analysis", "Text Input"])
 
 if mode == "URL Analysis":
     st.subheader("URL Sentiment Analysis")
