@@ -7,4 +7,4 @@ pandas
 numpy
 matplotlib
 newspaper3k
-lxml
+lxml[html_clean]
