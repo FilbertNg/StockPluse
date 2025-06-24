@@ -63,8 +63,8 @@ StockPulse is an intelligent stock sentiment analysis tool that extracts and ana
 
 ## 🌐 Live Demo
 
-🔗 **Streamlit Demo** (coming soon)  
-> Placeholder — demo URL will be added here once deployed.
+🔗 **Streamlit Demo:** [https://stockpluse.streamlit.app/](https://stockpluse.streamlit.app/)  
+> Try the interactive demo to explore StockPulse in action!
 
 ---
 ## 📚 Acknowledgements
